@@ -4,4 +4,8 @@
 
 ## Technologies used : HTML, CSS and JavaScript
 
+[live](https://z-palindrome-checker.netlify.app/)
+
 ![image](./Project%20screenshot.png)
+
+
